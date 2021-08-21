@@ -1,2 +1,1 @@
-Hello World!
-sample text
+This is my blog repository.
