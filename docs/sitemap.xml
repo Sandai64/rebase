@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://rebase.erwan.sh/</loc>
+    <loc>https://rebase.erwan.sh/</loc>
     <lastmod>2021-08-21T15:40:42+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rebase.erwan.sh/about/</loc>
+    <loc>https://rebase.erwan.sh/about/</loc>
   </url>
   
   <url>
-    <loc>http://rebase.erwan.sh/categories/</loc>
+    <loc>https://rebase.erwan.sh/categories/</loc>
   </url>
   
   <url>
-    <loc>http://rebase.erwan.sh/projects/</loc>
+    <loc>https://rebase.erwan.sh/projects/</loc>
   </url>
   
   <url>
-    <loc>http://rebase.erwan.sh/tags/</loc>
+    <loc>https://rebase.erwan.sh/tags/</loc>
   </url>
   
 </urlset>

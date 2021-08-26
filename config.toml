@@ -1,4 +1,4 @@
-baseurl = "http://rebase.erwan.sh/"
+baseurl = "https://rebase.erwan.sh/"
 languageCode = "en-us"
 title = "Rebase"
 theme = "terminal"

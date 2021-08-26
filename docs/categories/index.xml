@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rebase</title>
-    <link>http://rebase.erwan.sh/categories/</link>
+    <link>https://rebase.erwan.sh/categories/</link>
     <description>Recent content in Categories on Rebase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Erwan Egasse / Sandai</copyright><atom:link href="http://rebase.erwan.sh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Erwan Egasse / Sandai</copyright><atom:link href="https://rebase.erwan.sh/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
