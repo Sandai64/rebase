@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content on Rebase</title>
-    <link>http://example.org/</link>
+    <link>http://rebase.erwan.sh/</link>
     <description>Recent content in Content on Rebase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Erwan Egasse / Sandai</copyright>
-    <lastBuildDate>Sat, 21 Aug 2021 15:40:42 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Aug 2021 15:40:42 +0200</lastBuildDate><atom:link href="http://rebase.erwan.sh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>http://rebase.erwan.sh/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>http://rebase.erwan.sh/about/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://example.org/projects/</link>
+      <link>http://rebase.erwan.sh/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/</guid>
+      <guid>http://rebase.erwan.sh/projects/</guid>
       <description></description>
       <content></content>
     </item>

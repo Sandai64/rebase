@@ -1,6 +1,6 @@
-baseurl = "http://example.org/"
+baseurl = "http://rebase.erwan.sh/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Rebase"
 theme = "terminal"
 paginate = 5
 
